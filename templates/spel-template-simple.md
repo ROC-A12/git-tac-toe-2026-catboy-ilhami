@@ -5,9 +5,9 @@
 ### Bord (simple variant)
 | - | 1 | 2 | 3 |
 |---|---|---|---|
-| A |X|🔲|🔲|
-| B |O|O|🔲|
-| C |X|🔲|🔲|
+| A |X|o|X|
+| B |O|O|x|
+| C |X|X|O|
 
 ### Logboek
 1. ..
