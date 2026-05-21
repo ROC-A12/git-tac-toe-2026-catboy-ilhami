@@ -1,11 +1,11 @@
 ### Spelers
-- Speler X = __
-- Speler O = __
+- Speler X = Jaimy
+- Speler O = Ilhami
 
 ### Bord (simple variant)
 | - | 1 | 2 | 3 |
 |---|---|---|---|
-| A |🔲|🔲|🔲|
+| A |X|🔲|🔲|
 | B |🔲|🔲|🔲|
 | C |🔲|🔲|🔲|
 
